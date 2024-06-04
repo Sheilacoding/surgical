@@ -1,5 +1,5 @@
 ---
-title: "Brochure"
+title: ""
 description: "Celebrating a Legend!"
 #featured_image: 'images/daddy2.jpg'
 omit_header_text: false

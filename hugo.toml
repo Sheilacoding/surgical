@@ -4,7 +4,7 @@ title = 'Memento'
 theme = ["ananke","hugo-shortcode-gallery"]
 
 
-Paginate = 1
+Paginate = 4
 
 
 [params]
@@ -17,3 +17,6 @@ description = "Biography of Pharm Richard Asante."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-navy"
 #recent_posts_number = 3
+
+[params.content.paragraphs]
+style="text-align: justify"
