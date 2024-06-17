@@ -4,9 +4,9 @@ description: "Celebrating a Legend!"
 #featured_image: 'images/daddy2.jpg'
 omit_header_text: false
 menu:
-main:
+  main:
 weight: 3
 ---
-### View or [Download](/brochure/sheila.pdf) the brochure!
+### View or [Download](/brochure/bro-surg.pdf) the brochure!
 
-{{< embed-pdf url="/brochure/sheila.pdf" >}}
+{{< embed-pdf url="/brochure/bro-surg.pdf" >}}

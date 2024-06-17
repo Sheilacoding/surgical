@@ -5,10 +5,10 @@ theme = ["ananke","hugo-shortcode-gallery"]
 
 
 Paginate = 4
+SectionPagesMenu = "main"
 
 
 [params]
-SectionPagesMenu = "main"
 text_color = ""
 author = ""
 favicon = ""
@@ -20,3 +20,4 @@ background_color_class = "bg-navy"
 
 [params.content.paragraphs]
 style="text-align: justify"
+

@@ -7,7 +7,26 @@ main:
 weight: 1
 
 ---
-## Tribute From Wife - Mrs Mercy Konadu-Asante
+
+## List of tributes {#list}
+
+[Tribute by Wife](#wife)
+
+[Tribute by Children](#children)
+
+[Tribute by Church](#church)
+
+[Tribute by KNUST Class of 2006 ](#knust)
+
+[Tribute by PSGH W/R ](#psgh)
+
+[Tribute by Staff of Med-Pal](#staff)
+
+[Tribute by Pharm Alex Badong](#alex)
+
+[Tribute by Pharm Kwame Antwi](#kwame)
+
+## Tribute By Wife - Mrs Mercy Konadu-Asante {#wife}
 *<span style="color:darkblue;font-weight:500;font-size:10px">
 “When peace like a river attendeth my way.
 When sorrows like seas billows roll
@@ -58,7 +77,7 @@ Daddy ,nade  nyuie.
 
 
 
-## Tribute From Children
+## Tribute By Children {#children}
 
 There’s nothing sad and painful in this world than watching someone you love so much pass away gradually and not being able to do anything.
 
@@ -75,7 +94,8 @@ Daddy, to us, as you always travel, this time is one of the many trips. Until we
 Daddy rest well.
 
 
-## Tribute From Presbyterian Church of Ghana, Grace Family Congregation - Aborkope 
+## Tribute By Presbyterian Church of Ghana, Grace Family Congregation - Aborkope {#church}
+
 
 
 Our Bible says in Ecclesiastes 3:1&2  *<span style="color:darkblue;font-weight:500;font-size:10px"> “ for everything there is a  season and a time for every matter under the sun,
@@ -107,7 +127,8 @@ May we continue to follow Mr. Konadu Asante’s example, striving to serve with 
 Rest well Papa ! You’ll forever remain in our heart!
 
 
-## Tribute From Class of 2006, KNUST
+## Tribute By Class of 2006, KNUST {#knust}
+
 
 It is with a heavy heart and fond memories that we write this tribute to our beloved classmate, Pharm. Richard Asante. Our paths first crossed in 2002, when we entered the revered halls of the Faculty of Pharmacy & Pharmaceutical Sciences, Kwame Nkrumah University of Science and Technology, Kumasi. From the outset, Richard's affable and easy-going nature made him a cherished member of our cohort.
 
@@ -119,7 +140,41 @@ Indeed, Richard, or "Surgical" as we fondly remember him, has left behind an ind
 
 As we remember Richard, we celebrate his life and the positive impact he had on all of us. His legacy will continue to inspire us, reminding us of the importance of friendship, dedication, and service to others. Richard, you will be sorely missed, but your memory will live on in our hearts. Rest in peace, dear friend.
 
-## Tribute From Staff of Med-Pal Chemist Ltd 
+
+
+## Tribute By Pharmaceutical Society Ghana  W/R Chapter {#psgh}
+
+Like sand through the hour glass, so are the days of our lives.
+Pharmacist Richard Asante affably called Surgicals by all who knew him from his days in the faculty of Pharmacy & Pharmaceutical Sciences of KNUST and even into his professional working life thereafter is one that lived a great example of a Pharmacist by being a good friend of the human race.
+
+Rising through the ranks to become the  regional manager for the Pharmacy Council of Ghana in the Western region,he embodied the standards of Pharmacy practice.
+Pharm. Richard Asante dispensed his mandate as such in the highest professional candor with diligence and won the heart of both young and old Pharmacists practicing in the region. Intern and student Pharmacists always had an encounter of a lifetime when they met him as he was open, meticulous and a great career coach.
+His indepth knowledge and understanding of issues relating to the profession and life at large was indeed a wellspring of life to all who encountered him.
+His doors were opened to all colleague Pharmacists and even non Pharmacists on all related issues of Pharmacy practice in the region.
+Where it mattered most, he physically was ever present to help administer all regulatory actions to ensure that the standards of practice were rightly upheld.
+
+He was a prominent figure in the regional activities of the PSGH western regional chapter for that matter contributed effortlessly to the successful host of our Society’s AGM in Takoradi for the year 2023.
+Fond memories of his participation in meetings with meaningful opinions he advanced all to the betterment of our Society’s regional chapter will be forever cherished.
+
+We as a Regional chapter are lost for words in times like these of our colleague’s demise but in our brief and very last words of tribute to our own departed Pharm. Richard Asante, we seek to say that his exemplary dedication to Pharmacy practice in the Western region remains undisputed and we will continue to eulogize him even as a staunch member that he was.
+His name will forever be etched in gold within the annals of the  Society.
+
+Damirifa due Pharm. Richard Asante(PA 2413)
+
+Damirifa due Pharm Surgicals,
+
+your Pharmacists kindred are of good memories of your dedication to Pharmacy practice and PSGH at large and we wish you an eternal perfect rest in the bosom of our Lord.
+
+Fare thee well !!!
+
+
+(Amicus Humani Generis)
+
+PSGH Western Regional Chapter
+
+
+## Tribute By Staff of Med-Pal Chemist Ltd {#staff}
+
 
 Today, we gather here to celebrate the life and legacy of an extraordinary individual, Pharm Richard
 Asante.A man of exceptional character, compassion, and vision ,Boss left an indelible mark on our
@@ -136,3 +191,39 @@ take care of one another, and to make a positive impact in our communities.
 
 Rest well, Pharm Richard Asante.
 Rest well, Boss. Your memories will be a blessing to us all.
+
+
+## Tribute By Pharm Alexander Badong {#alex}
+
+
+It is with a heavy heart that I write this tribute, filled with memories of a friend who was more like a brother to me. We journeyed through life together, from the hallowed halls of Kwame Nkrumah University of Science and Technology, where we first met, to the bustling institutions where we interned, and across towns and villages in Ghana on our shared holidays. His name was a synonym for camaraderie, laughter, and unwavering friendship.
+
+We were roommates in our final year at the university, a time that brought us closer than ever. We studied together, shared our favorite ‘gobe’ (gari & beans) from Queens Hall, and navigated the challenges of academia. Those walls witnessed our dreams, our struggles, and our triumphs. They heard your unique laughter and our late-night philosophical debates. They were privy to our growing bond with each passing day.
+
+Our internships at the Pharmacy council and Ridge hospital were another chapter of our shared journey. We were two young individuals, stepping into the professional world, eager to make our mark. When the time came to choose our professional registration numbers, we joked that we needed neighboring numbers to remind each other during old age, when memory loss set in. You settled on PA-2413 and I PA-2414. We jested about who will need help from the other in that respect. You were right, even as young people I am the one who often than not came asking about the registration numbers.
+
+Professional life took us in different directions, but we kept close. We were frequent guests at each other’s homes. This summer, we were supposed to add another chapter to our book of shared experiences with a planned European tour, a trip we had worked out with our usual excitement and anticipation. But fate had other plans.
+
+Your untimely passing has left a void that can never be filled. Your laughter, your wisdom, your companionship - they are all irreplaceable. But as we mourn you, we also celebrate your life. We remember you as a wonderful person, for the lives you touched, for the memories you left behind. Your spirit lives on. It lives on in every life you touched, in every heart you warmed, in every dream you inspired.
+I bid you farewell ‘papa surgical’, rest in peace my friend. You will forever be missed, but never forgotten.
+
+## Tribute By Pharm Kwame Antwi {#kwame}
+
+O PharM RicharD Asante!
+The very last of my few words in tribute to knowing and relating to you.
+You have journeyed to not return.
+A too early unexpected exit from life here on earth to join the departed saints.
+
+I  always called you Bra Surgicals and your definitive response always have been Bra Kwame showing the very mutual respect we held even as my Senior colleague until I realized our in-law status.
+
+Aww death, you sting hard and  your sting is the hardest this time.
+Rest in ease and rest in peace whilst we continue to deal with the devastating pain of your death.
+
+For one more time I will call Bra Surgicals & say Damirifa !!!
+
+Till we meet on the day of resurrection all I will say is Damirifa !!!
+
+
+[Go to List of tributes](#list)
+
+
