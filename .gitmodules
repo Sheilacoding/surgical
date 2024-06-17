@@ -1,4 +1,5 @@
 [submodule "themes/ananke"]
 	path = themes/ananke,
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+	url = https://github.com/mfg92/hugo-shortcode-gallery.git
 
