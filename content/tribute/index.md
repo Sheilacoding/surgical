@@ -3,8 +3,8 @@ title: Tributes
 description: "The song has ended, but the melody lingers on. - Irving Berlin"
 featured_image: 'images/tribute7.png'
 menu:
-main:
-weight: 1
+    main:
+        weight: 1
 
 ---
 
@@ -223,7 +223,9 @@ For one more time I will call Bra Surgicals & say Damirifa !!!
 
 Till we meet on the day of resurrection all I will say is Damirifa !!!
 
+## Tribute By Sheila Sopiimeh
 
+My first encounter with Pharm Richard Asante, affectionately called ´Surgical´on KNUST campus. He was the roommate of my husband then.
 [Go to List of tributes](#list)
 
 

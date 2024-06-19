@@ -2,9 +2,10 @@
 title: "Biography"
 description: "A Life Well Lived "
 featured_image: 'images/bio-surgical.jpg'
+omit_header_text: false
 menu:
-main:
-weight: 1
+    main:
+        weight: 1
 
 ---
 

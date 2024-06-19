@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Richard Asante on Memento</title>
+    <title>Memento</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Richard Asante on Memento</description>
+    <description>Recent content on Memento</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biography</title>
+      <link>//localhost:1313/biography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/biography/</guid>
+      <description>Pharm Richard Asante (1978 -2024) “For if we live, we live to the Lord, and if we die, we die to the Lord. Therefore, whether we live or die, we are the Lord’s” (Romans 14:8 NKJ)&#xA;Early Life and Education The late Richard Asante was born in Accra on Tuesday, 27th June, 1978 to Opanyin Kofi Safo-Asante of the Kwahu-Mpraeso Asona family and Madam Felicia Asor Sasu of the Kwahu-Mpraeso Aduana family, both of blessed memory.</description>
+    </item>
+    <item>
+      <title>Brochure</title>
+      <link>//localhost:1313/brochure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/brochure/</guid>
+      <description>View or Download the brochure! Previous Next &amp;nbsp; &amp;nbsp; Page: / </description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>//localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/gallery/</guid>
+      <description>Life in Pictures! </description>
+    </item>
+    <item>
+      <title>Tributes</title>
+      <link>//localhost:1313/tribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tribute/</guid>
+      <description>List of tributes Tribute by Wife&#xA;Tribute by Children&#xA;Tribute by Church&#xA;Tribute by KNUST Class of 2006 Tribute by PSGH W/R Tribute by Staff of Med-Pal&#xA;Tribute by Pharm Alex Badong&#xA;Tribute by Pharm Kwame Antwi&#xA;Tribute By Wife - Mrs Mercy Konadu-Asante “When peace like a river attendeth my way. When sorrows like seas billows roll Whatever my lot, thou hast taught me to say It is well, with my soul ” How can l write your tribute so early when life is steadily getting better?</description>
+    </item>
   </channel>
 </rss>

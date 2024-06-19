@@ -16,6 +16,7 @@ site_logo = ""
 description = "Biography of Pharm Richard Asante."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-navy"
+#cover_dimming_class = "bg-navy-60"
 #recent_posts_number = 3
 
 [params.content.paragraphs]
