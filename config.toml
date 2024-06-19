@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://richardasante.com'
 languageCode = 'en-us'
 title = 'Memento'
 theme = ["ananke","hugo-shortcode-gallery"]
