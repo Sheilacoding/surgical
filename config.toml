@@ -2,13 +2,11 @@ baseURL = 'https://richardasante.com'
 languageCode = 'en-us'
 title = 'Memento'
 theme = ["ananke","hugo-shortcode-gallery"]
-
-
 Paginate = 4
 SectionPagesMenu = "main"
 
-
 [params]
+copyright = "Richard Asante"
 text_color = ""
 author = ""
 favicon = ""
@@ -18,6 +16,7 @@ description = "Biography of Pharm Richard Asante."
 background_color_class = "bg-navy"
 #cover_dimming_class = "bg-navy-60"
 #recent_posts_number = 3
+#disable_share = true
 
 [params.content.paragraphs]
 style="text-align: justify"
