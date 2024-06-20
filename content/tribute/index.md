@@ -1,7 +1,7 @@
 ---
 title: Tributes
 description: "The song has ended, but the melody lingers on. - Irving Berlin"
-featured_image: 'images/tribute7.png'
+featured_image: 'images/tribute.png'
 menu:
     main:
         weight: 1
