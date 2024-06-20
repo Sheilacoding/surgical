@@ -1,7 +1,7 @@
 ---
 title: "Biography"
 description: "A Life Well Lived "
-featured_image: 'images/bio-surgical.jpg'
+featured_image: 'images/biography-bg.jpg'
 omit_header_text: false
 menu:
     main:
