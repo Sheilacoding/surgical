@@ -26,7 +26,7 @@ menu:
 
 [Tribute by Pharm Kwame Antwi](#kwame)
 
-[Tribute by Sheila Badong](#sheila)
+[Tribute by Sheila Sopiimeh](#sheila)
 
 ## Tribute By Wife - Mrs Mercy Konadu-Asante {#wife}
 *<span style="color:darkblue;font-weight:500;font-size:10px">
