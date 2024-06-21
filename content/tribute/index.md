@@ -227,9 +227,9 @@ Till we meet on the day of resurrection all I will say is Damirifa !!!
 
 ## Tribute By Sheila Sopiimeh {#sheila}
 
-My first encounter with Pharm Richard Asante, affectionately called ´Surgical´on KNUST campus. He was the roommate of my husband then. He said you liked my calmness and demeanor and so you nicked-named me "The Quite One". You always said you would name your daughter after me and true to your word, you named your only daughter, Sheila, after me.
+My first encounter with Pharm Richard Asante, affectionately called ´Surgical´ was on KNUST campus. You were the roommate of my husband then. You said you liked my calmness and demeanor and so you nicked-named me "The Quite One". You always said you would name your daughter after me and true to your word, you named your only daughter, Sheila, after me.
 
-This kind your kind gesture deepened the friendship and bond between our families. You followed us to Jirapa and Lawra for our traditional marriage ceremony. You were a regular guest at all our family gatherings, and you always graced this with your infectious smile. Oh!! how could death lay its icy hands on you just when we were planning a Europe tour this year August? Our only consolation is that, you are resting in the Lord. Till we meet again !
+This your kind gesture deepened the friendship and bond between our families. You followed Alex and I to Jirapa and Lawra for our traditional marriage ceremony. You were a regular guest at all our family gatherings, and you always graced the occasions with your infectious smile. Oh!! How could death lay its icy hands on you just when we were planning  Europe tour this year August? Our only consolation is that, you are resting in the Lord. Till we meet again !
 
 Fare thee well Papa Surgical !!!!
 
